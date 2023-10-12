@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Atk
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2957499029
+    locked: 0
+  - name: Walls
+    uniqueID: 3645443443
+    locked: 0
+  - name: Props
+    uniqueID: 310971109
+    locked: 0
+  - name: Player
+    uniqueID: 1217515137
+    locked: 0
+  - name: Rain
+    uniqueID: 2659938175
+    locked: 0
+  - name: UI
+    uniqueID: 3041907557
+    locked: 0
